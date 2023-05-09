@@ -1,7 +1,7 @@
 # Project Labyrinth 
 
 ## View it live
-https://quiz-about-react.netlify.app/
+https://liongroupmazerunner.netlify.app/
 
 ## Project Brief
 Build an app that retrieves a list of actions from the backend and presents them to the user as intractable items. It should be based on Labyrinth. Work in groups of three. 
